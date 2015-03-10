@@ -12,3 +12,14 @@ can alway do diff of staging area and last commit
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 anytime you want to have versions of a repository simultaneosly 
+
+How do the diagrams help you visualize the branch structure?
+
+Help to show flow of parentage
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+two branches are combined based on what was added to the parents
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+only auto merges on the easiest cases and leaves everything else to manual to be on the safe side
