@@ -9,3 +9,6 @@ branch is a part of a repository, fork lets you copy a repository you can't edit
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 so you know where the local stands relative to the remote, and can work without internet access
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+google drive, not having the ability to rollback and branch would be the biggests problems
