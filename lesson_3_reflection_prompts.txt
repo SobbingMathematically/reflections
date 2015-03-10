@@ -6,3 +6,6 @@ If there are other people working on it you don't know what will be added.
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 branch is a part of a repository, fork lets you copy a repository you can't edit, and clone let's you copy things internally
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+so you know where the local stands relative to the remote, and can work without internet access
